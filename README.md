@@ -13,7 +13,7 @@ Portfolio Web Page
 
 <p align="center">
     <a href="https://brenodadalto.freevar.com/" target="_blank">
-        <img src="https://brenodadalto.freevar.com/assets/img/portfolio-final.jpg" width="400">
+        <img src="https://brenodadalto.freevar.com/assets/img/portfolio-final.jpg" width="600">
     </a>
 </p>
 
