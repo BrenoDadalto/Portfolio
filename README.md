@@ -17,7 +17,7 @@ Portfolio Web Page
     </a>
 </p>
 
-I made this portfolio for myself, as i had a need to display some of my abilities, today i use this portfolio as my official portfolio and you can access him clicking [here](https://brenodadalto.freevar.com/).
+I made this portfolio for myself, as i had a need to show that i'm very capable, today i use this portfolio as my official portfolio and you can access him by clicking [here](https://brenodadalto.freevar.com/).
 
 ### Built With
 
